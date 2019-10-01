@@ -1,0 +1,126 @@
+/* FIRST ITERATION */
+
+body.sunnie-1 {
+  background: #00ff00 ;
+  font-family: 'simplon mono', sans-serif ;
+  margin: 30px ;
+  text-align: center;
+}
+body.sunnie-1 .one {
+  font-family: ;
+  font-size: 50px;
+  font-weight: bold;
+  text-decoration: 
+  text-align: ;
+  padding: 100px;
+  color: ;
+  opacity: ;
+  border: 1px solid black;
+}
+
+body.sunnie-1 .two {
+  font-family: ;
+  font-size: 20px;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: #fff;
+  opacity: ;
+}
+body.sunnie-1 .three{
+  font-family: gt super;
+  font-size: 15px;
+  font-weight: ;
+  text-decoration: overline wavy black;
+  text-align: ;
+  padding: ;
+  color: pink;
+  opacity: ;
+}
+
+
+/* SECOND ITERATION */
+
+
+body.sunnie-2 {
+ background: #000;
+  font-family: 'monday';
+  margin: 30px ;
+  text-align: center;
+}
+body.sunnie-2 .one {
+  font-family: ;
+  font-size: ;
+  font-weight: bold;
+  text-decoration: ;
+  text-align: left;
+  padding: 30px;
+  color: pink;
+  opacity: ;
+  border: 5px dotted pink;
+}
+body.sunnie-2 .two {
+  font-family: 'simplon mono';
+  font-size: 100px;
+  font-weight: ;
+  text-decoration: underline; 
+  text-align: right;
+  padding: ;
+  color: #fff;
+  opacity: ;
+}
+body.sunnie-2 .three{
+  font-family: 'avenir';
+  font-size: 120px;
+  font-weight: ;
+  text-decoration: overline dotted pink;
+  text-align: left;
+  padding: 50px;
+  color: #FF00FF;
+  opacity: ;
+}
+
+
+/* THIRD ITERATION */
+
+
+body.sunnie-3 {
+  background: #FF00FF ;
+  font-family: 'Nova Flat' ;
+  margin: 30px ;
+  text-align: center;
+}
+
+body.sunnie-3 .one {
+  font-family: ;
+  font-size: 100px;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: #000;
+  opacity: ;
+}
+
+body.sunnie-3 .two {
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+body.sunnie-3 .three{
+  font-family: ;
+  font-size: 100px;
+  font-weight: ;
+  text-decoration: line-through;
+  text-align: ;
+  padding: ;
+  color: #fff;
+  opacity: ;
+}
